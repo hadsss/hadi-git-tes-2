@@ -9,5 +9,6 @@
 <body>
     <h1>Hello world</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum quod repellat tempore veniam fuga harum, repellendus sunt tenetur laboriosam dicta molestias illum rem sed dignissimos saepe accusantium amet ipsa nobis?</p>
+    <label for="">username</label>
 </body>
 </html>
